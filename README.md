@@ -28,7 +28,7 @@
 
 Аналитик:
 - **Juputer Notebook & Python:** Pandas, Numpy, Scipy.stats, Matplotlib, Seaborn, Plotly, Folium, SQLalchemy
-- **PostgreSQL:** Подключение, запросы, получение, CTE
+- **SQL:** Подключение, запросы, получение, CTE
 - **Dashboards:** Tableau Public
 - Unit-экономека и базовые маркетинг-метрики
 
