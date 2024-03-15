@@ -11,12 +11,12 @@
 
 ## ✨ Актуальное ✨
 Активно ищу работу и рассматриваю вакансии по направлению "Аналитик данных".\
-[Yandex Practicum Projects](https://github.com/Linecore/Yandex_Practicum_DA)
+[Yandex Practicum Projects](https://vk.cc/cvsK4e)
 
 ## Связаться со мной
 
 <div id="badges">
-  <a href="https://vk.cc/cvpAhH">
+  <a href="https://vk.cc/cvsK6e">
     <img src="https://img.shields.io/badge/VK.COM-blue?style=flat&logo=VK.COM&color=blue" alt="VK Badge"/>
   </a>
   <a href="mailto:lans-fx@rambler.ru&body=привет?subject=Привет, Я пишу тебе с github и хочу спросить: ">
