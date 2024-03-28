@@ -30,7 +30,7 @@
 - **Juputer Notebook & Python:** Pandas, Numpy, Scipy.stats, Matplotlib, Seaborn, Plotly, Folium, SQLalchemy
 - **SQL:** Подключение, запросы, получение, CTE
 - **Dashboards:** Tableau Public
-- Unit-экономека и базовые маркетинг-метрики
+- Unit-экономика и базовые маркетинг-метрики
 
 
 Инженер:
